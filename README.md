@@ -1,0 +1,1 @@
+The firmware that I make available and modified so that it works on the speaker, voice assistant works very well, it reacts much better than the box3,The firmware that I make available and modified so that it works on the speaker, voice assistant works very well, it reacts much better than the box3 even the screen standby that you can modify on home assistant
